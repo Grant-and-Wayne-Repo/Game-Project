@@ -7,6 +7,7 @@ public class TurretLogic : MonoBehaviour {
 	//public Rigidbody projectile;
 	public float attackTimer;
 	public float coolDown;
+	public float rotationSpeed;
 
 	public GameObject BulletPrefab;
 
